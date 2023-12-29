@@ -1,0 +1,1 @@
+# compartilhar-dados-navegador
